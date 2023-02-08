@@ -1,4 +1,6 @@
-<!-- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/> -->
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<hr/>
 
 # Hi there I'm Solomon Liyengwa👋
 

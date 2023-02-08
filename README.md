@@ -1,6 +1,6 @@
-<div align="center">
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-</div>
+<!-- <div align="center">
+ <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+</div> -->
 
 <hr/>
 

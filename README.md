@@ -8,7 +8,7 @@
 
 ## About Me
 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 - 💼 &nbsp; I’m a Backend developer and Front-end Web developer.
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Some of my intrests include farming,exploring new technologies and developing software solutions and quick hacks.
